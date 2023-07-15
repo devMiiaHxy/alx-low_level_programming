@@ -6,7 +6,7 @@
   *Description: 'Looping over positive and negative numbers'
   *Return : always 0;
   */
-int main(void)
+int main()
 {
 	int n;
 
