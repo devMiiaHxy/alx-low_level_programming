@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
   *main - Entry point of every C program
-  *Description: 'main method return option is void'
+  *Explanation: 'main method return option is void'
   *Description: 'Looping over positive and negative numbers'
   *Return : always 0;
   */
