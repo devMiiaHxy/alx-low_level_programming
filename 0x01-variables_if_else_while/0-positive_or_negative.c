@@ -3,10 +3,11 @@
 #include <stdio.h>
 /**
   *main - Entry point of every C program
+  *Void value: main return option is void
   *Description: 'Looping over positive and negative numbers'
   *Return : always 0;
   */
-int main()
+int main(void)
 {
 	int n;
 
