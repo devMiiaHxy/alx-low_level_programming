@@ -1,16 +1,13 @@
-#include <stdio.h>
+#include "main.h"
 /**
-  *main - Entry point of any program
-  *Description: 'Print the alphabets'
-  *Return: Always 0
+  *print_alphabet - Print alphabets
+  *
+  *Return:void
   */
 void print_alphabet(void)
 {
-	int i;
-
-	for (i = 97; i <= 122; i++)
-	{
-		_putchar(i);
-	}
-	_putchar('\n');
+	char bt;
+for (bt = 'a'; bt <= 'z'; bt++)
+_putchar(bt);
+_putchar('\n');
 }
