@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-int _putcar(char c);
+int _putchar(char x);
 int _isupper(int c);
 int _isdigit(int c);
 int mul(int x, int y);

@@ -1,6 +1,6 @@
-#include <unistd.>
+#include <unistd.h>
 /**
-  * _putchar - writes alphabet c to stdout
+  * _putchar - writes alphabet x to stdout
   *@x: Alphabet to print
   *
   *Return: If success, return 1
@@ -8,5 +8,5 @@
   */
 int _putchar(char x)
 {
-	return (write(1, &c, 1));
+	return (write(1, &x, 1));
 }
