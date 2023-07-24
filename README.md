@@ -1,1 +1,1 @@
-Readme file for the root directory
+alx-low-level_programming readme file for pointers project
