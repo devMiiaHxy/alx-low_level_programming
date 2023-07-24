@@ -1,1 +1,1 @@
-C Hello World project
+Readme file for the root directory
