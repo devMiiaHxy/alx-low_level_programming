@@ -4,7 +4,7 @@
  * _atoi - turns string to an integer
  * @s: string to be changed
  *
- * Return the int changed from the string
+ * Return: the int changed from the string
  */
 
 int _atoi(char *s)
@@ -19,8 +19,7 @@ int _atoi(char *s)
 			x = (x * 10) + (*s - '0');
 		else if (x > 0)
 			break;
-	}
-	while (*s++);
+	} while (*s++);
 
 	return (x * y);
 }
