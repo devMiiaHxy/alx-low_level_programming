@@ -20,7 +20,7 @@ s[string_counter] == ',' || s[string_counter] == ';' || s[string_counter] == '.'
 s[string_counter] == '"' || s[string_counter] == '(' || s[string_counter] == ')' || 
 s[string_counter] == '{' || s[string_counter] == '}')
 {
-if (s[string_counter = + 1] >= 97 && s[string_counter + 1] <= 122)
+if (s[string_counter + 1] >= 97 && s[string_counter + 1] <= 122)
 {
 s[string_counter + 1] = s[string_counter + 1] - 32;
 }
