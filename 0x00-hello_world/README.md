@@ -1,1 +1,1 @@
-0x00-hello_world readme file
+Readme to understand this project
