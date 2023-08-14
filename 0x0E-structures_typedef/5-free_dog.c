@@ -3,7 +3,7 @@
 
 /**
  * free_dog - memory released for dog struct object initialized
- * @d: struct of dog memory to free
+ * @x: struct of dog memory to free
  */
 void free_dog(dog_t *x)
 {
