@@ -1,0 +1,1 @@
+Functionns and pointers task
