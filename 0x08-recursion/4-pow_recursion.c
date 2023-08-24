@@ -1,6 +1,14 @@
 #include "main.h"
 #include <stdio.h>
 
+/**
+ * _pow_recursion - function to carry out power operation
+ * @x: number to raise to power
+ * @y: power value
+ *
+ * Return: calculation ans
+ */
+
 int _pow_recursion(int x, int y)
 {
 	if (y < 0)
