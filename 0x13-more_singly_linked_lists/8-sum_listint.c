@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * sum_listint - operation on su,,img all values in list
+ * sum_listint - operation on summing all values in list
  * @head: first node of list
  *
  * Return: sum op
